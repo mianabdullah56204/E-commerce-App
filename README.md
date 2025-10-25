@@ -24,7 +24,7 @@ This project demonstrates clean architecture, reusable components, and real-worl
 
 | Home Screen                          | Product Detail                           | Cart Screen                          |
 | ------------------------------------ | ---------------------------------------- | ------------------------------------ |
-| ![Home](<img width="1160" height="2400" alt="Home Screen" src="https://github.com/user-attachments/assets/31396261-7a70-405e-976b-07ae29ca0f09" />) | ![Detail](<img width="1160" height="2400" alt="Product Detail" src="https://github.com/user-attachments/assets/603a297c-8aaf-4f65-b68b-94c21134c5bc" />) | ![Cart](<img width="1160" height="2400" alt="Cart Screen" src="https://github.com/user-attachments/assets/52047f4f-2567-415e-9bf7-522031500e4b" />) |
+| <img width="1160" height="2400" alt="Home Screen" src="https://github.com/user-attachments/assets/31396261-7a70-405e-976b-07ae29ca0f09" /> | <img width="1160" height="2400" alt="Product Detail" src="https://github.com/user-attachments/assets/603a297c-8aaf-4f65-b68b-94c21134c5bc" /> | <img width="1160" height="2400" alt="Cart Screen" src="https://github.com/user-attachments/assets/52047f4f-2567-415e-9bf7-522031500e4b" />
 
 ---
 
@@ -34,22 +34,30 @@ This project demonstrates clean architecture, reusable components, and real-worl
 lib/
 │
 ├── components/
-│   ├── icon_box.dart
-│   ├── product_card.dart
-│   ├── product_info.dart
-│   ├── thumbnail_list.dart
+│   └── icon_box.dart
 │
 ├── model/
-│   └── app_data.dart
+│   ├── app_data.dart
+│   └── product.dart
 │
 ├── theme/
 │   └── app_color.dart
 │
-└── screens/
-    ├── home_page.dart
-    ├── product_detail_page.dart
-    └── cart_page.dart
-```
+├── widgets/
+│   ├── bottom_navbar.dart
+│   ├── categor_list.dart
+│   ├── product_card.dart
+│   ├── product_info.dart
+│   └── thumbnail_list.dart
+│
+├── screens/
+|   ├── cart_page.dart
+|   ├── favourite_page.dart
+|   ├── home_page.dart
+|   ├── product_detail_page.dart
+|   └── search_page.dart
+|
+└── main.dart
 
 ---
 
@@ -118,4 +126,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 > 💬 *"Design with passion, build with Flutter!"*
+
 
