@@ -124,7 +124,7 @@ Follow these simple steps to run the project locally:
 **Muhammad Abdullah**
 📍 Bahawalpur, Pakistan
 💌 [mianabdullah56204@gmail.com](mailto:mianabdullah56204@gmail.com)
-💻 [GitHub Profile](https://github.com/yourusername)
+💻 [GitHub Profile](https://github.com/mianabdullah56204)
 
 ---
 
@@ -135,6 +135,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 > 💬 *"Design with passion, build with Flutter!"*
+
 
 
 
