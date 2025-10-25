@@ -8,14 +8,23 @@ This project demonstrates clean architecture, reusable components, and real-worl
 ## 🚀 Features
 
 ✅ Modern and clean UI design
+<br>
 ✅ Product list with interactive cards
+<br>
 ✅ Product detail screen with dynamic data
+<br>
 ✅ Add to cart functionality
+<br>
 ✅ Smooth scroll & hero animations
+<br>
 ✅ Favorite (wishlist) system
+<br>
 ✅ Size and color selection
+<br>
 ✅ Show More / Show Less description text
+<br>
 ✅ State management (using setState / can be extended to Provider or GetX)
+<br>
 ✅ Responsive layout for different screen sizes
 
 ---
@@ -126,5 +135,6 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 > 💬 *"Design with passion, build with Flutter!"*
+
 
 
