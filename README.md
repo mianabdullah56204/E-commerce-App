@@ -24,9 +24,10 @@ This project demonstrates clean architecture, reusable components, and real-worl
 
 | Home Screen                          | Product Detail                           | Cart Screen                          |
 | ------------------------------------ | ---------------------------------------- | ------------------------------------ |
-| ![Home](assets/screenshots/home.png) | ![Detail](assets/screenshots/detail.png) | ![Cart](assets/screenshots/cart.png) |
-
-*(Add your screenshots in `/assets/screenshots/` and update the file names accordingly)*
+| ![Home](assets/screenshots/ho<img width="1160" height="2400" alt="Home Screen" src="https://github.com/user-attachments/assets/31396261-7a70-405e-976b-07ae29ca0f09" />
+me.png) | ![Detail](assets/screens<img width="1160" height="2400" alt="Product Detail" src="https://github.com/user-attachments/assets/603a297c-8aaf-4f65-b68b-94c21134c5bc" />
+hots/detail.png) | ![Cart](assets/screen<img width="1160" height="2400" alt="Cart Screen" src="https://github.com/user-attachments/assets/52047f4f-2567-415e-9bf7-522031500e4b" />
+shots/cart.png) |
 
 ---
 
@@ -120,3 +121,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 > 💬 *"Design with passion, build with Flutter!"*
+
