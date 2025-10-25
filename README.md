@@ -70,36 +70,6 @@ lib/
 
 ---
 
-## ⚙️ Setup Instructions
-
-Follow these simple steps to run the project locally:
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/yourusername/flutter-ecommerce-app.git
-   ```
-
-2. **Navigate to the project directory**
-
-   ```bash
-   cd flutter-ecommerce-app
-   ```
-
-3. **Get dependencies**
-
-   ```bash
-   flutter pub get
-   ```
-
-4. **Run the app**
-
-   ```bash
-   flutter run
-   ```
-
----
-
 ## 🧠 Technologies Used
 
 * **Flutter** — UI Framework
@@ -135,6 +105,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 > 💬 *"Design with passion, build with Flutter!"*
+
 
 
 
