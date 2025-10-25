@@ -72,6 +72,7 @@ lib/
 
 ## ⚙️ Setup Instructions
 
+
 Follow these simple steps to run the project locally:
 
 1. **Clone the repository**
@@ -135,6 +136,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 > 💬 *"Design with passion, build with Flutter!"*
+
 
 
 
